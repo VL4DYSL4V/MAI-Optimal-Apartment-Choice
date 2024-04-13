@@ -1,5 +1,5 @@
 import * as math from 'mathjs';
-import {Matrix, re} from 'mathjs';
+import {Matrix} from 'mathjs';
 
 /**
  * @param matrix {Matrix}
